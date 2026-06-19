@@ -1,0 +1,20 @@
+{
+    "base": {
+        "factual_loss": 3.6970250493004206,
+        "factual_ppl": 40.32715443233497,
+        "adaptation_loss": 4.094208036150251,
+        "adaptation_ppl": 59.99180899484461
+    },
+    "baseline_lora_weights": {
+        "factual_loss": 3.6837728364127025,
+        "factual_ppl": 39.79625595618282,
+        "adaptation_loss": 3.966960657210577,
+        "adaptation_ppl": 52.823737165244125
+    },
+    "mewc_lora_weights": {
+        "factual_loss": 3.650630678449358,
+        "factual_ppl": 38.498938845115646,
+        "adaptation_loss": 3.7644764468783425,
+        "adaptation_ppl": 43.141113281638276
+    }
+}
